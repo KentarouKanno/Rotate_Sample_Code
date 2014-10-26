@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/KentarOu/Desktop/Xcode_Project/2014_Project/2014_10月/Rotate_Code/Rotate_CodeTests/Rotate_CodeTests.m \
+  /Users/KentarOu/Desktop/My_Github/Rotate_Sample_Code/Rotate_Code/Rotate_CodeTests/Rotate_CodeTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h \

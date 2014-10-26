@@ -20,6 +20,7 @@
     [super viewDidLoad];
     
 }
+
 - (IBAction)openModalView:(id)sender
 {
     ModalViewController *modal = [ModalViewController new];

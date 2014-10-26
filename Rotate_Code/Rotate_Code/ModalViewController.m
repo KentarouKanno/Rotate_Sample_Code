@@ -17,7 +17,33 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(didChangedOrientation:)
+                                                 name:UIDeviceOrientationDidChangeNotification
+                                               object:nil];
+    
 }
+
+- (void)didChangedOrientation:(NSNotification *)notification
+{
+    UIDeviceOrientation orientation = [[notification object] orientation];
+    switch (orientation) {
+            
+        case UIDeviceOrientationLandscapeLeft:
+            // iPhoneを横にして、ホームボタンが左にある状態
+            NSLog(@"UIDeviceOrientationLandscapeLeft");
+            break;
+            
+        case UIDeviceOrientationLandscapeRight:
+            // iPhoneを横にして、ホームボタンが右にある状態
+            NSLog(@"UIDeviceOrientationLandscapeRight");
+            break;
+            
+        default:
+            break;
+    }
+}
+
 
 - (IBAction)dismissModalView:(id)sender
 {
