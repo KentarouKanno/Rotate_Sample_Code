@@ -1,0 +1,80 @@
+[
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCAbstractTest.h",
+  "offset": 2688,
+  "remove": 18,
+  "text": "@property (NS_NONATOMIC_IOSONLY, readonly, strong) XCTestRun *run",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h",
+  "offset": 3351,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h",
+  "offset": 3449,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h",
+  "offset": 3545,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h",
+  "offset": 3626,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h",
+  "offset": 2340,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h",
+  "offset": 2550,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h",
+  "offset": 2845,
+  "remove": 2,
+  "text": "XCTestSuite*",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h",
+  "offset": 2869,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h",
+  "offset": 2922,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h",
+  "offset": 2975,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h",
+  "offset": 3030,
+  "remove": 2,
+  "text": "instancetype",
+ },
+ {
+  "file": "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h",
+  "offset": 3072,
+  "remove": 2,
+  "text": "instancetype",
+ },
+]
